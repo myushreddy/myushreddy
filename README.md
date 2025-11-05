@@ -13,7 +13,7 @@
 
 ```typescript
 const mayushReddy = {
-    fullName: "Mayush Reddy",
+    fullName: "M Ayush Reddy",
     pronouns: "He" | "Him",
     role: "Full Stack Developer & AI/ML Enthusiast",
     location: "📍 Hyderabad, Telangana, India",
