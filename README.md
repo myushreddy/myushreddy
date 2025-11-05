@@ -12,12 +12,19 @@
 ## 🚀 About Me
 
 ```typescript
-const mayush = {
+const mayushReddy = {
+    fullName: "Mayush Reddy",
     pronouns: "He" | "Him",
+    role: "Full Stack Developer & AI/ML Enthusiast",
     location: "📍 Hyderabad, Telangana, India",
-    currentFocus: "Building scalable applications",
-    learning: ["Cloud Technologies", "System Design", "AI/ML"],
-    funFact: "I debug with console.log() and I'm not ashamed! 😄"
+    
+    education: {
+        degree: "B.Tech in Computer Science & Engineering (Data Science)",
+        institution: "C.R. Rao Advanced Institute of Mathematics, Statistics and Computer Science",
+        university: "University of Hyderabad Campus",
+        duration: "2022 - 2026",
+        cgpa: "8.5/10"
+    },
 };
 ```
 
