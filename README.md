@@ -32,7 +32,7 @@ const mayushReddy = {
 - 💼 **Currently Working On**: Innovative projects that solve real-world problems
 - 🌱 **Learning**: Advanced algorithms, cloud architecture, and modern web frameworks
 - 💡 **Open to**: Collaboration on open-source projects
-- 📫 **Reach me**: [Email](mayushreddy24@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ayushreddy240704/)
+- 📫 **Reach me**: [Mail](mayushreddy24@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ayushreddy240704/)
 
 ---
 
