@@ -89,7 +89,7 @@ const mayushReddy = {
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=myushreddy&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2E9EF7&line=2E9EF7&point=FFFFFF" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=myushreddy&theme=react-dark&hide_border=true&bg_color=0D1117&color=2E9EF7&line=2E9EF7&point=FFFFFF&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
 </p>
 
 ---
