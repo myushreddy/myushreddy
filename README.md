@@ -22,7 +22,7 @@ const mayushReddy = {
         degree: "B.Tech in Computer Science & Engineering (Data Science)",
         institution: "C.R. Rao Advanced Institute of Mathematics, Statistics and Computer Science",
         university: "University of Hyderabad Campus",
-        duration: "2022 - 2026"
+        branch: "2022 - 2026"
     },
 };
 ```
